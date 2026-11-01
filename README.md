@@ -24,3 +24,4 @@ A lightweight, responsive calorie and macronutrient tracker built with vanilla H
 ## Getting Started
 
 Simply open `index.html` in any web browser—no server, build step, or installation required.
+
